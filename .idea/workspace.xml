@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/integrativeproject/digitalbooking/util/CreateRoles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/integrativeproject/digitalbooking/util/CreateRoles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire12154269385774839563tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_05199177121950955293tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter10477944486188641924.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <workItem from="1657825622017" duration="359000" />
       <workItem from="1657825986260" duration="22000" />
       <workItem from="1657826018676" duration="171000" />
-      <workItem from="1657826310729" duration="1547000" />
+      <workItem from="1657826310729" duration="1620000" />
     </task>
     <servers />
   </component>
