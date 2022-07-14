@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="" />
+    <list default="true" id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/integrativeproject/digitalbooking/util/CreateRoles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/integrativeproject/digitalbooking/util/CreateRoles.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +94,7 @@
       <workItem from="1657825622017" duration="359000" />
       <workItem from="1657825986260" duration="22000" />
       <workItem from="1657826018676" duration="171000" />
-      <workItem from="1657826310729" duration="1238000" />
+      <workItem from="1657826310729" duration="1547000" />
     </task>
     <servers />
   </component>
