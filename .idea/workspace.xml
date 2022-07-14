@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/DigitalbookingApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/AuthController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/BookingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/CityController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/FeatureController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/ImageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/PolicyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/BookingDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/CategoryDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/CityDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/FeatureDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/ImageDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/PolicyDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/ProductDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/security/JwtDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/security/NewUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/dto/security/UserLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Booking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Feature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Image.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Policy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/security/MainUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/security/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/model/entity/security/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/IBookingRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/ICategoryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/ICityRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/IFeatureRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/IImageRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/IPolicyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/IProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/security/RoleRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/repository/security/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/security/MainSecurity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/security/enums/RoleName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/security/jwt/JwtEntryPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/security/jwt/JwtProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/security/jwt/JwtTokenFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/IBookingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/ICategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/ICityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/ICrudService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/IFeatureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/IImageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/IPolicyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/BookingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/CityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/FeatureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/ImageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/PolicyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/security/CustomUserDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/security/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/security/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/service/impl/security/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/integrativeproject/digitalbooking/util/CreateRoles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-integrativeproject.digitalbooking.DigitalbookingApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-integrativeproject.digitalbooking.service.impl.FeatureServiceTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/integrativeproject.digitalbooking.DigitalbookingApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/integrativeproject.digitalbooking.service.impl.FeatureServiceTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/integrativeproject/digitalbooking/DigitalbookingApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/integrativeproject/digitalbooking/service/impl/FeatureServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/integrativeproject/digitalbooking/service/impl/model/LoadData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BwmedsV4KMMG4w3gb3KVHTj9Ap" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/giandonofrio/Documents/workspace/backend-digitalbooking/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DigitalbookingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="digitalbooking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="integrativeproject.digitalbooking.DigitalbookingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integrativeproject.digitalbooking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DigitalbookingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="" />
+      <created>1657825619694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657825619694</updated>
+      <workItem from="1657825622017" duration="359000" />
+      <workItem from="1657825986260" duration="22000" />
+      <workItem from="1657826018676" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
