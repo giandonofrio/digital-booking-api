@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd63bc04-2fd7-4d3b-b1e9-d5c27742f73f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2022-07-14T16-27-37_155-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/2022-07-14T16-27-37_155-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1657825622017" duration="359000" />
       <workItem from="1657825986260" duration="22000" />
       <workItem from="1657826018676" duration="171000" />
-      <workItem from="1657826310729" duration="619000" />
+      <workItem from="1657826310729" duration="937000" />
     </task>
     <servers />
   </component>
