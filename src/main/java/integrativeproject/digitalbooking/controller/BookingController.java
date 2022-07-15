@@ -22,9 +22,7 @@ public class BookingController {
     @PostMapping("/create")
     public ResponseEntity<?> bookingCreate(@RequestBody BookingDTO bookingDTO) throws MessagingException, UnsupportedEncodingException {
         bookingService.create(bookingDTO);
-
         return ResponseEntity.ok(HttpStatus.CREATED);
-
     }
 
     @PutMapping("/update/{id}")
